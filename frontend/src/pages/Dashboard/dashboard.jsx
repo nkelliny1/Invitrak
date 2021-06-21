@@ -12,7 +12,7 @@ const state = {
              'April', 'May'],
     datasets: [
       {
-        label: 'Rainfall',
+        label: 'Parts',
         backgroundColor: 'rgba(75,192,192,1)',
         borderColor: 'rgba(0,0,0,1)',
         borderWidth: 2,
